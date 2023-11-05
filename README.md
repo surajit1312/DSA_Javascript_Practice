@@ -38,3 +38,10 @@ git submodule add https://github.com/surajit1312/DSA_Javascript_Binary_Search.gi
 git submodule add https://github.com/surajit1312/DSA_Javascript_LinkedList.git 5_DSA_Javascript_LinkedList
 
 ```
+
+## 6. DSA_Javascript_Binary_Trees
+
+```
+git submodule add https://github.com/surajit1312/DSA_Javascript_Binary_Trees.git 6_DSA_Javascript_Binary_Trees
+
+```
