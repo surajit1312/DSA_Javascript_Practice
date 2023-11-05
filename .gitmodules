@@ -16,3 +16,6 @@
 [submodule "6_DSA_Javascript_Binary_Trees"]
 	path = 6_DSA_Javascript_Binary_Trees
 	url = https://github.com/surajit1312/DSA_Javascript_Binary_Trees.git
+[submodule "7_DSA_Javascript_Graphs"]
+	path = 7_DSA_Javascript_Graphs
+	url = https://github.com/surajit1312/DSA_Javascript_Graphs.git
