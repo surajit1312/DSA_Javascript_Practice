@@ -17,3 +17,10 @@ git submodule add https://github.com/surajit1312/DSA_Javascript_Recursion.git 1_
 git submodule add https://github.com/surajit1312/DSA_Javascript_Arrays.git 2_DSA_Javascript_Arrays
 
 ```
+
+## 3. DSA_Sliding_Window_Technique
+
+```
+git submodule add https://github.com/surajit1312/DSA_Sliding_Window_Technique.git 3_DSA_Sliding_Window_Technique
+
+```

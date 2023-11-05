@@ -4,3 +4,6 @@
 [submodule "2_DSA_Javascript_Arrays"]
 	path = 2_DSA_Javascript_Arrays
 	url = https://github.com/surajit1312/DSA_Javascript_Arrays.git
+[submodule "3_DSA_Sliding_Window_Technique"]
+	path = 3_DSA_Sliding_Window_Technique
+	url = https://github.com/surajit1312/DSA_Sliding_Window_Technique.git
