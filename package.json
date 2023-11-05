@@ -1,0 +1,35 @@
+{
+  "name": "dsa_javascript_practice",
+  "version": "1.0.0",
+  "description": "This is a repository to practice Data Structure and Algorithms topic in Javascript language",
+  "main": "index.js",
+  "scripts": {
+    "lint:check": "npx prettier . --check",
+    "lint:fix": "npx prettier . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajit1312/DSA_Javascript_Practice.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "algorithms",
+    "javascript",
+    "dsa",
+    "dsa-javascript",
+    "dsa-js"
+  ],
+  "author": "Surajit Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surajit1312/DSA_Javascript_Practice/issues"
+  },
+  "homepage": "https://github.com/surajit1312/DSA_Javascript_Practice#readme",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
