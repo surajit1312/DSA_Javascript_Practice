@@ -31,3 +31,10 @@ git submodule add https://github.com/surajit1312/DSA_Sliding_Window_Technique.gi
 git submodule add https://github.com/surajit1312/DSA_Javascript_Binary_Search.git 4_DSA_Javascript_Binary_Search
 
 ```
+
+## 5. DSA_Javascript_LinkedList
+
+```
+git submodule add https://github.com/surajit1312/DSA_Javascript_LinkedList.git 5_DSA_Javascript_LinkedList
+
+```

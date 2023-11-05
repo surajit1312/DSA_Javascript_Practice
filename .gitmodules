@@ -10,3 +10,6 @@
 [submodule "4_DSA_Javascript_Binary_Search"]
 	path = 4_DSA_Javascript_Binary_Search
 	url = https://github.com/surajit1312/DSA_Javascript_Binary_Search.git
+[submodule "5_DSA_Javascript_LinkedList"]
+	path = 5_DSA_Javascript_LinkedList
+	url = https://github.com/surajit1312/DSA_Javascript_LinkedList.git
