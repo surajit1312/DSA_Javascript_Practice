@@ -1,3 +1,6 @@
 [submodule "1_DSA_Javascript_Recursion"]
 	path = 1_DSA_Javascript_Recursion
 	url = https://github.com/surajit1312/DSA_Javascript_Recursion.git
+[submodule "2_DSA_Javascript_Arrays"]
+	path = 2_DSA_Javascript_Arrays
+	url = https://github.com/surajit1312/DSA_Javascript_Arrays.git
