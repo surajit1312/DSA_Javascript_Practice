@@ -7,3 +7,6 @@
 [submodule "3_DSA_Sliding_Window_Technique"]
 	path = 3_DSA_Sliding_Window_Technique
 	url = https://github.com/surajit1312/DSA_Sliding_Window_Technique.git
+[submodule "4_DSA_Javascript_Binary_Search"]
+	path = 4_DSA_Javascript_Binary_Search
+	url = https://github.com/surajit1312/DSA_Javascript_Binary_Search.git
